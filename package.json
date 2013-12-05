@@ -1,0 +1,13 @@
+{
+  "name": "ytest",
+  "version": "0.0.0",
+  "private": true,
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  },
+  "dependencies": {
+    "oauth": "0.9.10",
+    "qs": "0.6.6"
+  }
+}
